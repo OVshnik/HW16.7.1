@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/HW16.7.1/v17
+/.vs
+/HW16/.vs/HW16
+/HW16/HW16/bin/Debug/net7.0
+/HW16/HW16/obj
+/HW16/HW16Tests/bin
+/HW16/HW16Tests/obj
